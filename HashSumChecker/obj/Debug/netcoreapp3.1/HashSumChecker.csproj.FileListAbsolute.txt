@@ -1,0 +1,16 @@
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\bin\Debug\netcoreapp3.1\HashSumChecker.exe
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\bin\Debug\netcoreapp3.1\HashSumChecker.deps.json
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\bin\Debug\netcoreapp3.1\HashSumChecker.runtimeconfig.json
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\bin\Debug\netcoreapp3.1\HashSumChecker.runtimeconfig.dev.json
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\bin\Debug\netcoreapp3.1\HashSumChecker.dll
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\bin\Debug\netcoreapp3.1\HashSumChecker.pdb
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\obj\Debug\netcoreapp3.1\HashSumChecker.csprojAssemblyReference.cache
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\obj\Debug\netcoreapp3.1\HashSumChecker.Form1.resources
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\obj\Debug\netcoreapp3.1\HashSumChecker.csproj.GenerateResource.cache
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\obj\Debug\netcoreapp3.1\HashSumChecker.AssemblyInfoInputs.cache
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\obj\Debug\netcoreapp3.1\HashSumChecker.AssemblyInfo.cs
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\obj\Debug\netcoreapp3.1\HashSumChecker.csproj.CoreCompileInputs.cache
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\obj\Debug\netcoreapp3.1\HashSumChecker.dll
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\obj\Debug\netcoreapp3.1\HashSumChecker.pdb
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\obj\Debug\netcoreapp3.1\HashSumChecker.genruntimeconfig.cache
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\obj\Debug\netcoreapp3.1\HashSumChecker.Properties.Resources.resources

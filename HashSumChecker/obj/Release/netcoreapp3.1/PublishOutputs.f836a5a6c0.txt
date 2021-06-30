@@ -1,0 +1,5 @@
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\bin\Release\netcoreapp3.1\publish\HashSumChecker.exe
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\bin\Release\netcoreapp3.1\publish\HashSumChecker.dll
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\bin\Release\netcoreapp3.1\publish\HashSumChecker.deps.json
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\bin\Release\netcoreapp3.1\publish\HashSumChecker.runtimeconfig.json
+C:\Users\Unity\Desktop\HashSumChecker\HashSumChecker\bin\Release\netcoreapp3.1\publish\HashSumChecker.pdb
